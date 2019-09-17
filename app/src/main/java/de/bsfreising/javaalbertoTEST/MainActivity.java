@@ -47,6 +47,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.btnGelb:
                 txvheader.setBackgroundColor(Color.YELLOW);
+                //test
+
         }
 
     }
