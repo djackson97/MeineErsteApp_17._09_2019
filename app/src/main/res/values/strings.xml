@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeineErsteApp_17._09_2019</string>
+    <string name="txv_ueberschrift">Farbe ändern</string>
+    <string name="btn_rot">ROT</string>
+    <string name="bnt_ende">ENDE</string>
+    <string name="btn_gelb">GELB</string>
+</resources>
